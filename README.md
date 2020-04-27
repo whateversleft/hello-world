@@ -1,2 +1,2 @@
 # hello-world
-# this is a pactice file
+# this is a practice file
